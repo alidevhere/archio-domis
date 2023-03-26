@@ -1,3 +1,3 @@
-module gitub.com/alidevhere/archio-domis
+module github.com/alidevhere/archio-domis
 
 go 1.20
